@@ -1,0 +1,14 @@
+name: lowend
+description: Control the runs, discard the warmup, report the distribution.
+version: 0.1.0
+repository: https://github.com/thorin-valehart/lowend
+environment:
+  sdk: ^3.5.0
+
+dependencies: {}
+
+dev_dependencies:
+  test: ^1.25.0
+
+executables:
+  lowend:
